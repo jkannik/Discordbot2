@@ -1,0 +1,14 @@
+C:\Users\janni\source\repos\DiscordBot\Neuer Ordner\netcoreapp3.0\DiscordBot.exe
+C:\Users\janni\source\repos\DiscordBot\Neuer Ordner\netcoreapp3.0\DiscordBot.deps.json
+C:\Users\janni\source\repos\DiscordBot\Neuer Ordner\netcoreapp3.0\DiscordBot.runtimeconfig.json
+C:\Users\janni\source\repos\DiscordBot\Neuer Ordner\netcoreapp3.0\DiscordBot.runtimeconfig.dev.json
+C:\Users\janni\source\repos\DiscordBot\Neuer Ordner\netcoreapp3.0\DiscordBot.dll
+C:\Users\janni\source\repos\DiscordBot\Neuer Ordner\netcoreapp3.0\DiscordBot.pdb
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.AssemblyInfo.cs
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.csproj.CopyComplete
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.dll
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.pdb
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.genruntimeconfig.cache
+C:\Users\janni\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.0\DiscordBot.csprojAssemblyReference.cache

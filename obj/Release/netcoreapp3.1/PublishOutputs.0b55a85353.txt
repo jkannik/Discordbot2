@@ -1,0 +1,15 @@
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\DiscordBot.exe
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\DiscordBot.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\DiscordBot.deps.json
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\DiscordBot.runtimeconfig.json
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\DiscordBot.pdb
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Discord.Net.Commands.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Discord.Net.Core.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Discord.Net.Rest.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Discord.Net.Webhook.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Discord.Net.WebSocket.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\Newtonsoft.Json.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\System.Interactive.Async.dll
+C:\Users\janni\source\repos\DiscordBot\ToRaspi\System.Linq.Async.dll
